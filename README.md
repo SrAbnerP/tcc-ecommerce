@@ -35,13 +35,11 @@ O backend foi construído usando **Java com Spring Boot**, oferecendo uma API ro
    ```bash
    git clone https://github.com/seu-usuario/seu-repositorio.git
 
-# Guia de Configuração
-
-## Navegue até o diretório do projeto:
+2. **Navegue até o diretório do projeto:**
     ```bash
     cd seu-repositorio
 
-## Importação e Execução do Projeto
+3. **Importação e Execução do Projeto**
 
 ### Importe o projeto no Spring Boot
 
